@@ -158,8 +158,8 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  jekyll (~> 4.0)
-  webrick (~> 1.8)
+  jekyll
+  webrick
 
 BUNDLED WITH
    2.5.7
